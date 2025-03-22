@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-ijdeoq&=usv(&7=7rb=%b!svx@psg4)34n^wo4y7tg@pv4uj5c'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["api-e-commerce-db-sqlite.onrender.com", "127.0.0.1", "localhost"]
 CSRF_TRUSTED_ORIGINS = ["https://api-e-commerce-db-sqlite.onrender.com", "http://127.0.0.1:8000"]
