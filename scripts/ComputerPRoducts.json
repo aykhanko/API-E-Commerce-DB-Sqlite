@@ -1,0 +1,760 @@
+{
+    "Data": [
+        {
+            "Photo": "https://icomp.az/data/img/202212/10435/small_amd_ryzen_9_7900x-1.webp",
+            "Title": "AMD Ryzen 9 7900X CPU",
+            "Description": "AM5 | 12 Cores | 5600 MHz | DDR5-5200 | 170W",
+            "Price": "1 199",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202412/12528/small_asus_dual_rtx_4060_oc-1.webp",
+            "Title": "Asus Dual GeForce RTX™ 4060 OC Edition 8GB 128bit",
+            "Description": "GDDR6X 8GB | 128-bit | 17 Gbps | HDMI | DisplayPort",
+            "Price": "779  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202111/9525/small_ct16g4dfdra32a-3.webp",
+            "Title": "DDR4 Crucial 16GB 3200 Mhz (CT16G4DFRA32A)",
+            "Description": "DDR4 | 16GB | 3200 Mhz | PC25600 | 1.2 V",
+            "Price": "79  ₼",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202305/10733/small_kingston_fury_renegade-1.webp",
+            "Title": "M.2 SSD Kingston Fury Renegade (SFYRS/1000G) 1 TB",
+            "Description": "M.2 | 1000 GB | PCIe 4.0 | up to 7300 Mbps",
+            "Price": "289  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13093/small_amd_ryzen_5_9600x-1.webp",
+            "Title": "AMD Ryzen™ 5 9600X CPU",
+            "Description": "6 Core | 3.9-5.4 GHz | TSMC 4nm FinFET | PCIe® 5.0 | AM5 | 65 W",
+            "Price": "439  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202411/12323/small_proart-rtx4060-08c-1.webp",
+            "Title": "Asus ProArt GeForce RTX™ 4060 OC 8GB 128-bit  (PROART-RTX4060-08C)",
+            "Description": "GDDR6 8 GB | 128 bit | 17 Gbps | HDMI | DisplayPort",
+            "Price": "849  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202104/8820/small_ballistix_max.webp",
+            "Title": "DDR4 Crucial Ballistix Max 32GB 4000MHz (BLM2K16G40C18U4BL)",
+            "Description": "2x 16 GB | 288-Pin DDR4 | 4000 Mhz | 1.35 V | 32000 Mbps",
+            "Price": "299  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202501/12726/small_snv3s-1000g-1.webp",
+            "Title": "M.2 SSD Kingston NV3 (SNV3S/1000G) 1 TB",
+            "Description": "PCIe Gen 4.0 | 4000-6000 MBps | M.2 2280 Form Factor | 1.5 Million Hours MTBF",
+            "Price": "129  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13102/small_amd_ryzen_7_9800x3d-1.webp",
+            "Title": "AMD Ryzen™ 7 9800X3D CPU",
+            "Description": "AM5 | 8 Core | DDR5 5600 MHz | 4.70-5.20 GHz",
+            "Price": "1 299",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202304/10699/small_tuf-rtx4070ti-o12g-gaming-1.webp",
+            "Title": "Asus TUF Gaming GeForce RTX 4070 Ti OC 12GB 192bit (TUF-RTX4070TI-O12G-GAMING)",
+            "Description": "GDDR6X 12GB | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "2 049",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202303/10619/small_kvr32s22s8-0.webp",
+            "Title": "DDR4 Kingston ValueRAM 8GB 3200MHz (KVR32S22S8/8)",
+            "Description": "DDR4 8GB | 3200 MHz | PC25600 | 1.2 V",
+            "Price": "59  ₼",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202408/11751/small_m2_ssd_lexar_nm620_2tb-1.webp",
+            "Title": "M.2 SSD Lexar NM620 2TB",
+            "Description": "M.2 NVMe PCIe | 3D NAND | 3500 Mbps | 1M Hour MTBF",
+            "Price": "275  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202203/9854/small_5950x-1.webp",
+            "Title": "AMD Ryzen™ 9 5950X CPU",
+            "Description": "AMD Ryzen™ 9 | Up to 4.9GHz | L3 Cache 64MB | AM4 | 105 W",
+            "Price": "1 299",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202402/11356/small_asus_tuf_gaming_nvidia_geforce_rtx_4070_ti_super_oc-1.webp",
+            "Title": "Asus TUF Gaming GeForce RTX™ 4070 Ti SUPER 16GB OC Edition (16GB | 256bit)",
+            "Description": "16GB GDDR6X | 256-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "2 199",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202110/9354/small_ddr4_lexar_ld4as016g-h3200gn-1.webp",
+            "Title": "DDR4 Lexar 16 GB 3200 Mhz (LD4AS016G-H3200GN)",
+            "Description": "16 GB | 3200 Mhz | PC4-25600 | CL22 | 1.2V",
+            "Price": "79  ₼",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202407/11683/small_lexar_nm620-1.webp",
+            "Title": "M.2 SSD Lexar NM620 512 GB",
+            "Description": "M.2 NVMe PCIe | 3D NAND | 3300 Mbps | 1M Hour MTBF",
+            "Price": "75  ₼",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202410/11879/small_7950x-1.webp",
+            "Title": "AMD Ryzen™ 9 7950X CPU",
+            "Description": "AM5 | 16 Cores | 5700 MHz | DDR5-5200 | 170W",
+            "Price": "1 169",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202401/11220/small_65sql8ds93e1-1.webp",
+            "Title": "Galax GeForce® GTX 1650 EX Plus (65SQL8DS93E1) (4GB | 128bit)",
+            "Description": "4GB GDDR6 | 128-bit | 12 Gbps | HDMI | DisplayPort",
+            "Price": "365  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/12950/small_lexar_32gb_ddr4_3200_mhz-1.webp",
+            "Title": "DDR4 Lexar 32GB 3200 MHz UDIMM Desktop Memory",
+            "Description": "DDR4 32GB | 3200 MHz | 288 Pin | 1.2 V",
+            "Price": "149  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13074/small_lexar_nm790-1.webp",
+            "Title": "M.2 SSD Lexar NM790 1TB",
+            "Description": "M.2 NVMe PCIe | Half Sine Wave | 7400 Mbps | 1.5 M Hour MTBF",
+            "Price": "219  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13130/small_5900x-1.webp",
+            "Title": "AMD Ryzen™ 9 9900X CPU",
+            "Description": "AM5 | up to 5.6 Ghz | DDR5 5600 MHz | AMD Radeon™ Graphics",
+            "Price": "999  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/12917/small_gigabyte_aero_oc_sff_rtx_5080_16gb-1.webp",
+            "Title": "Gigabyte Aero OC SFF RTX 5080 16GB 256bit (9VN5080AO-00G10)",
+            "Description": "16GB GDDR7 | 256-bit | 30 Gbps | HDMI | DisplayPort",
+            "Price": "3 899",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202110/9355/small_ddr4_lexar_ld4as008g-h3200gn-1.webp",
+            "Title": "DDR4 Lexar 8 GB 3200 Mhz (LD4AS008G-H3200GN)",
+            "Description": "8 GB | 3200 Mhz | 260 Pin | JEDEC | CL22 | 1.2V",
+            "Price": "49  ₼",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202401/11227/small_msi_spatium_m450_500gb-1.webp",
+            "Title": "M.2 SSD MSI Spatium M450 500 GB",
+            "Description": "PHISON E19T | 3D NAND | M.2 2280 | PCIe Gen4 | 3600 Mbps",
+            "Price": "109  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202204/9939/small_i3_12100f-1.webp",
+            "Title": "Intel® Core™ i3-12100F CPU",
+            "Description": "3300-4300 Mhz | 12 MB Intel® Smart Cache | DDR5-4800 | FCLGA1700",
+            "Price": "189  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202405/11605/small_geforce_rtx_3050_eagle_oc_6g-01.webp",
+            "Title": "Gigabyte GeForce RTX™ 3050 Eagle OC 6GB 96bit (GV-N3050EAGLE OC-6GD)",
+            "Description": "GDDR6 6GB | 96-bit | 14 Gbps | HDMI | DisplayPort",
+            "Price": "519  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202108/9230/small_ld4au008g-r3200gsst-1.webp",
+            "Title": "DDR4 Lexar 8 GB 3200 Mhz (LD4AU008G-R3200GSST)",
+            "Description": "DDR4 | 8 GB | 3200 Mhz | SDRAM | 1.35 V",
+            "Price": "69  ₼",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13104/small_m2_ssd_msi_spatium_m461_4_tb-1.webp",
+            "Title": "M.2 SSD MSI Spatium M461 4 TB",
+            "Description": "PHISON E21T | 3D NAND | NVMe 1.4 | 4200-5000 Mbps",
+            "Price": "549  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202205/10023/small_i5-10400f-1.webp",
+            "Title": "Intel® Core™ i5-10400F CPU",
+            "Description": "LGA1200 | DDR4-2666 Max. 128GB | 2.90-4.30 Ghz | 65 W",
+            "Price": "219  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202302/10567/small_gv-n3060eagle_oc-12gd-1.webp",
+            "Title": "Gigabyte GeForce RTX™ 3060 Eagle OC (GV-N3060EAGLE OC-12GD) (12GB | 192bit)",
+            "Description": "GDDR6 12GB | 192 bit | 15000 MHz | PCI-E 4.0 | HDMI | DisplayPort",
+            "Price": "789  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202012/8389/small_ld4as016g-r2666g-3.webp",
+            "Title": "DDR4 Lexar 8GB 3200 Mhz (LD4AS008G-R3200GSST)",
+            "Description": "DDR4 | 260 Pin | 8 GB | 3200 Mhz | 1.2 V",
+            "Price": "49  ₼",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/201911/7424/small_mz-v7e500-2.webp",
+            "Title": "M.2 SSD Samsung 970 EVO NVMe 500 GB",
+            "Description": "M.2 2280 | NVMe 1.3 | 3D TLC NAND | 500 MB",
+            "Price": "155  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202204/9983/small_i5-12400-1.webp",
+            "Title": "Intel® Core™ i5-12400 CPU",
+            "Description": "4400 MHz | DDR5 4800 | DDR4 3200 | LGA1700 | Intel UHD",
+            "Price": "319  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202401/11214/small_gv-n4060wf2oc-8gd-1.webp",
+            "Title": "Gigabyte GeForce RTX™ 4060 Windforce OC (8GB | 128bit)",
+            "Description": "8GB GDDR6 | 128-bit | 17 Gbps | HDMI | DisplayPort",
+            "Price": "749  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202410/11922/small_cmh32gx5m2b5600c40k-1.webp",
+            "Title": "DDR5 Corsair Vengeance RGB 32GB 5600 MHz KIT (CMH32GX5M2B5600C40K)",
+            "Description": "2x 16 GB | PC5 44800 | DDR5 5600 Mhz | 1.25 V | RGB",
+            "Price": "245  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202407/11685/small_mz-v7s500-1.webp",
+            "Title": "M.2 SSD Samsung 970 EVO Plus 500 GB (MZ-V7S500)",
+            "Description": "3200 Mbps | PCIe Gen 3.0 x 4, NVMe 1.3 | Samsung V-NAND 3-bit MLC",
+            "Price": "125  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202202/9791/small_i5_12400f-1.webp",
+            "Title": "Intel® Core™ i5-12400F CPU",
+            "Description": "LGA1700 | 2.50-.40 GHz | DDR4 3200 | DDR5 4800 | 117 W",
+            "Price": "229  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202311/11131/small_gv-n4070wf30c-12gd-1.webp",
+            "Title": "Gigabyte GeForce RTX™ 4070 Windforce OC (GV-N4070WF30C-12GD) (12GB | 192bit)",
+            "Description": "GDDR6X 12GB | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "1 419",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202305/10751/small_cmh32gx5m2b6400c32-1.webp",
+            "Title": "DDR5 Corsair Vengeance RGB 32GB 6400 MHz Black (CMH32GX5M2B6400C32) Kit",
+            "Description": "DDR5 | 2x 16GB | 6400 MHz | RGB | 51200 Mbps | 1.4V",
+            "Price": "369  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202103/8717/small_mz-v7s2t0-1.webp",
+            "Title": "M.2 SSD Samsung 970 EVO Plus NVMe 2 TB (MZ-V7S2T0)",
+            "Description": "2 TB | PCIe Gen 3.0 x4 NVMe | 3500 Mbps",
+            "Price": "379  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202402/11339/small_intel_core_i5_12600kf-1.webp",
+            "Title": "Intel® Core™ i5-12600KF CPU",
+            "Description": "LGA1700 | up to 4.9 GHz | 76.8 GB/s | 150 W | DDR4-2933 | DDR5-4800",
+            "Price": "359  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13110/small_geforce_rtx_5070_ti_windforce_oc_sff_16g-01.webp",
+            "Title": "Gigabyte GeForce RTX™ 5070 Ti Windforce OC SFF 16GB 256bit (GV-N507TWF3OC-16GD)",
+            "Description": "GDDR7 16GB | 256-bit | 28 Gbps | HDMI | DisplayPort",
+            "Price": "2 349",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/13063/small_cp2k16g64c38u5b-1.webp",
+            "Title": "DDR5 Crucial 32GB 6400 MHz (CP2K16G64C38U5B) Kit",
+            "Description": "DDR5 | 2x 16GB | 6400 MHz | 1.35V",
+            "Price": "209  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/201906/7054/small_samsung-mz-v7s500bw-40790215675.webp",
+            "Title": "M.2 SSD Samsung 970 EVO Plus NVMe 500 GB",
+            "Description": "NVME M2 SSD 500 GB | PCI Express x4 | V-Nand | 3500 Mbps",
+            "Price": "165  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202305/10790/small_intel_core_i5-13400f_cpu-1.webp",
+            "Title": "Intel® Core™ i5-13400F CPU",
+            "Description": "LGA1700 | 1.8 – 4.6 GHz | DDR4-3200 | DDR5-4800 | 148 W",
+            "Price": "279  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/12979/small_gv-n5090gaming_oc-32gd-1.webp",
+            "Title": "Gigabyte GeForce RTX™ 5090 GAMING OC 32GB 512-bit (GV-N5090GAMING OC-32GD)",
+            "Description": "32GB GDDR7 | 512-bit | 28 Gbps | HDMI | DisplayPort",
+            "Price": "8 999",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202408/11764/small_crucial_pro_32gb_kit_16gbx2_ddr5-5600_udimm-1.webp",
+            "Title": "DDR5 Crucial PRO 32 GB 5600 MHz Kit",
+            "Description": "DDR5 | 5600 MHz | 16GB x2 | Unbuffered",
+            "Price": "235  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202202/9818/small_mz-v8v1t0-0.webp",
+            "Title": "M.2 SSD Samsung 980 1 TB (MZ-V8V1T0)",
+            "Description": "M.2 (2280) | PCIe Gen 3.0 x4 | Samsung V-NAND 3-bit MLC | HMB(Host Memory Buffer)",
+            "Price": "199  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202104/8806/small_i7_11700-1.webp",
+            "Title": "Intel® Core™ i7-11700 CPU",
+            "Description": "LGA1200 | 2.5 – 4.9 Ghz | 65 W | DDR4-3200 | Intel® UHD 750",
+            "Price": "499  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202404/11469/small_gigabyte_rtx_4070_super_windforce_oc-1.webp",
+            "Title": "Gigabyte RTX 4070 Super Windforce OC (12GB | 192bit)",
+            "Description": "GDDR6X 12GB | 192 Bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "1 499",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202305/10758/small_f5-6400j3239g16gx2-tz5rk-1.webp",
+            "Title": "DDR5 G.Skill Trident Z5 RGB 32GB 6400 MHz (F5-6400J3239G16GX2-TZ5RK) Kit",
+            "Description": "DDR5 | 2x16GB | 6400 MHz | RGB | 51200 MB/s | 1.4V",
+            "Price": "379  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202407/11684/small_mz-v8v500-1.webp",
+            "Title": "M.2 SSD Samsung 980 500 GB (MZ-V8V500)",
+            "Description": "M.2 (2280) | PCIe Gen 3.0 x4 | Samsung V-NAND 3-bit MLC | 2600 Mbps",
+            "Price": "149  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202104/8805/small_i7_11700k-1.webp",
+            "Title": "Intel® Core™ i7-11700K CPU",
+            "Description": "LGA1200 | 3.6 – 5.0 Ghz | 125 W | DDR4-3200 | Intel® UHD 750",
+            "Price": "539  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/13065/small_msi_ventus_rtx_4060ti_16gb-1.webp",
+            "Title": "MSI GeForce RTX™ 4060 Ti Ventus 2X OC Black (16GB | 128-bit)",
+            "Description": "16GB GDDR6 | 128-bit | 18 Gbps | HDMI | DisplayPort",
+            "Price": "1 089",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202305/10757/small_f5-6400j3239g32gx2-tz5rs-1.webp",
+            "Title": "DDR5 G.Skill Trident Z5 RGB 32GB 6400 MHz (F5-6400J3239G16GX2-TZ5RS) Kit",
+            "Description": "DDR5 | 2x16GB | 6400 MHz | RGB | 51200 MB/s | 1.4V",
+            "Price": "379  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202106/8992/small_mz-v8p2t0-1.webp",
+            "Title": "M.2 SSD Samsung 980 PRO PCIe 4.0 NVMe 2 TB",
+            "Description": "M.2 2280 | 2 TB | 7,000/5,100 MB/s | PCIe Gen 4.0 x4, NVMe 1.3c",
+            "Price": "359  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202302/10566/small_12700-1.webp",
+            "Title": "Intel® Core™ i7-12700 CPU (OEM)",
+            "Description": "LGA1700 | DDR4-3200 | DDR5-4800 | Intel UHD 770 | 4900 MHz",
+            "Price": "549  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202311/11150/small_msi4060-4.webp",
+            "Title": "MSI GeForce RTX™ 4060 Ventus 2X OC Black (8GB | 128-bit)",
+            "Description": "8GB GDDR6 | 128-bit | 17 Gbps | HDMI | DisplayPort",
+            "Price": "719  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202412/12617/small_ld5u16g68c34la-rgd-1.webp",
+            "Title": "DDR5 Lexar Ares 32GB 6800 MHz (LD5U16G68C34LA-RGD) Kit",
+            "Description": "DDR5 2x16GB | 6800 MHz | CL34-45-45-108 | 1.4V",
+            "Price": "299  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202404/11500/small_mz-v9e1t0-1.webp",
+            "Title": "M.2 SSD Samsung 990 EVO (MZ-V9E1T0) 1 TB",
+            "Description": "PCIe® 4.0 x4 / 5.0 x2 NVMe™ 2.0 | Up to 5,000 MB/s | S.M.A.R.T Support | TRIM Support",
+            "Price": "199  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202201/9692/small_intelr_core_i7-12700k_cpu-1.webp",
+            "Title": "Intel® Core™ i7-12700K CPU",
+            "Description": "FCLGA1700 | 5.00 GHz | DDR5-4800 | Intel® UHD 770 | 190 W",
+            "Price": "519  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202402/11359/small_geforce_rtx_4070_ti_gaming_x_slim_12g-1.webp",
+            "Title": "MSI GeForce RTX™ 4070 Ti Gaming X Slim 12G (12GB | 192bit)",
+            "Description": "12GB GDDR6X | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "2 099",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202405/11561/small_ld5bu016g-r6000gdla-1.webp",
+            "Title": "DDR5 Lexar Ares RGB 32GB 6000 MHz (LD5BU016G-R6000GDLA) Kit",
+            "Description": "DDR5 6000 MHz | 2x 16 GB | RGB | 288-pin DIMM",
+            "Price": "269  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202404/11501/small_mz-v9e1t0-1.webp",
+            "Title": "M.2 SSD Samsung 990 EVO (MZ-V9E2T0) 2 TB",
+            "Description": "PCIe® 4.0 x4 / 5.0 x2 NVMe™ 2.0 | Up to 5,000 MB/s | S.M.A.R.T Support | TRIM Support",
+            "Price": "349  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202402/11340/small_i7_12700kf-1.webp",
+            "Title": "Intel® Core™ i7-12700KF CPU",
+            "Description": "LGA1700 | up to 5.0 GHz | 76.8 GB/s | 190 W | DDR4-2933 | DDR5-4800",
+            "Price": "479  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202402/11357/small_geforce_rtx_4070_ti_super_16g_ventus_2x_oc-1.webp",
+            "Title": "MSI GeForce RTX™ 4070 Ti SUPER 16G VENTUS 2X OC (16GB | 256bit)",
+            "Description": "16GB GDDR6X | 256-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "2 199",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/13061/small_ld5u16g60c38bg-rgd-1.webp",
+            "Title": "DDR5 Lexar Thor 32GB 6000 MHz RGB Fusion 2.0 (LD5U16G60C38BG-RGD) Kit",
+            "Description": "2x 16GB | 6000 MHz | DDR5 | 1.35V",
+            "Price": "229  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202303/10638/small_mz-v9p1t0-0.webp",
+            "Title": "M.2 SSD Samsung 990 PRO (MZ-V9P1T0) 1 TB",
+            "Description": "M.2 SSD | 1 TB | 6900-7450 Mbps | S.M.A.R.T supported",
+            "Price": "259  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202405/11603/small_intel_core_i7_13700kf-1.webp",
+            "Title": "Intel® Core™ i7-13700F CPU",
+            "Description": "LGA1700 | DDR4-3200 | DDR5-5600 | Max. 192GB | 5400 MHz",
+            "Price": "679  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202411/12445/small_msi_expert_rtx_4070ti_super_16gb_gddr6x-1.webp",
+            "Title": "MSI GeForce RTX™ 4070 Ti SUPER EXPERT 16GB 256-bit",
+            "Description": "GDDR6X 16GB | 256-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "1 999",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202412/12703/small_ld5u16g60c32lg-rud-1.webp",
+            "Title": "DDR5 Lexar THOR OC 32GB 6000 MHz (LD5U16G60C32LG-RUD)",
+            "Description": "DDR5 | 6000 MHz | 2 x 16GB | 288 Pin | Intel XMP 3.0 & AMD EXPO™ | 1.35V2",
+            "Price": "219  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13139/small_samsung_990_pro_2tb-2.webp",
+            "Title": "M.2 SSD Samsung 990 PRO 2 TB",
+            "Description": "M.2 SSD | 2 TB | 6900-7450 Mbps | S.M.A.R.T supported",
+            "Price": "349  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202406/11625/small_intel_core_i7_13700kf-1.webp",
+            "Title": "Intel® Core™ i7-13700KF CPU",
+            "Description": "LGA1700 | DDR4-3200 | DDR5-5600 | Max. 192GB | 5400 MHz",
+            "Price": "749  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202311/11130/small_912-v513-208-1.webp",
+            "Title": "MSI GeForce RTX™ 4070 Ventus 2X OC (912-V513-208) (12GB | 192bit)",
+            "Description": "GDDR6X 12GB | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "1 489",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13103/small_ram_t-force-1.webp",
+            "Title": "DDR5 T-Force Delta RGB 64GB 6000 MHz Kit",
+            "Description": "DDR5 | 64GB | 6000 MHz | 1.4 V",
+            "Price": "469  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202409/11804/small_p40498-b21-1.webp",
+            "Title": "Multi Vendor SSD HPE P40498-B21 Intensive SFF BC",
+            "Description": "960GB | SATA | SFF Form Factor | Hot Pluggable",
+            "Price": "699  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202311/11109/small_intel_core_i7_14700k-1.webp",
+            "Title": "Intel® Core™ i7-14700K CPU",
+            "Description": "LGA1700 | 2.5-5.6 GHz | DDR5-5600 | DDR4-3200 | Intel® UHD 770",
+            "Price": "699  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13111/small_msi_vanguard-1.webp",
+            "Title": "MSI GeForce RTX™ 5070 Ti Vanguard SOC Launch Edition 16GB 256bit",
+            "Description": "GDDR7 16GB | 256-bit | 28 Gbps | HDMI | DisplayPort",
+            "Price": "2 699",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/12949/small_ted516g5600c46bk-1.webp",
+            "Title": "DDR5 TeamGroup Elite 32GB 5600MHz (TED516G5600C46BK) Kit",
+            "Description": "DDR5 | 2x 16GB | 5600 MHz | 1.1 V",
+            "Price": "219  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202309/11024/small_gp-gstfs31100tntd-1.webp",
+            "Title": "SSD Gigabyte 1TB (GP-GSTFS31100TNTD)",
+            "Description": "SATA III | 2.5 FF | 1 TB | 550 Mbps",
+            "Price": "115  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202503/13092/small_i7_14700kf-1.webp",
+            "Title": "Intel® Core™ i7-14700KF CPU",
+            "Description": "LGA1700 | 2.5-5.6 GHz | DDR5-5600 | DDR4-3200 | Videokart mütləqdir",
+            "Price": "679  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202109/9344/small_msi_rtx_1650_ventus_xs-1.webp",
+            "Title": "MSI GTX 1650 Ventus XS (912-V809-3060)",
+            "Description": "4096 MB | 128 bit | GDDR5 | DVI-D | HDMI | DisplayPort",
+            "Price": "399  ",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202305/10750/small_ff3d532g6000hc38adc01-1.webp",
+            "Title": "DDR5 Teamgroup T-Force Delta RGB 32GB 6000 MHz (FF3D532G6000HC38ADC01) Kit",
+            "Description": "DDR5 | 2x 16GB | 6000 MHz | RGB | 48000 Mbps | 1.25V",
+            "Price": "299  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202010/8292/small_gp-gstfs31480gntd-1.webp",
+            "Title": "SSD Gigabyte 480 GB (GP-GSTFS31480GNTD)",
+            "Description": "SATA | 480 GB | 480-550 MBPS | 2.5’",
+            "Price": "85  ₼",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202105/8868/small_i9-11900f-1.webp",
+            "Title": "Intel® Core™ i9-11900F CPU",
+            "Description": "LGA1200 | up to 5.20 Ghz | DDR4-3200 | nonVGA | 65W",
+            "Price": "599  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202306/10850/small_msi_ventus_2x_rtx_4060ti_8gb-1.webp",
+            "Title": "MSI Ventus 2x RTX 4060 Ti (8GB | 128bit)",
+            "Description": "GDDR6 8GB | 128-bit | 18 Gbps | HDMI | DisplayPort",
+            "Price": "1 179",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202305/10749/small_ff4d532g5200hc40cdc01-1.webp",
+            "Title": "DDR5 Teamgroup T-Force Delta RGB 32GB 6000 MHz (FF4D532G6000HC38ADC01) Kit",
+            "Description": "DDR5 | 2x 16GB | 6000 MHz | RGB | 48000 Mbps | 1.25V",
+            "Price": "299  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/201806/6190/small_agf-095-3.webp",
+            "Title": "SSD Kingston A400 240GB",
+            "Description": "Bakıda ucuz qiymətə  tam orijinal   SSD Kingston A400 240GB   modelini iComp.az saytından münasib qiymətə sifariş edə bilərsiniz.",
+            "Price": "65  ₼",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202108/9181/small_i9-11900k-1.webp",
+            "Title": "Intel® Core™ i9-11900K CPU",
+            "Description": "FCLGA1200 | 8 Core | 3.5 – 5.3 Ghz | DDR4-3200 | 95W",
+            "Price": "649  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202409/11809/small_4060_ti_ventus_3x-1.webp",
+            "Title": "MSI Ventus 3x RTX 4060 Ti (8GB | 128bit) OC Edition",
+            "Description": "GDDR6 8GB | 128-bit | 18 Gbps | HDMI | DisplayPort",
+            "Price": "1 049",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202303/10657/small_ff3d532g6400hc40bdc01-2.webp",
+            "Title": "DDR5 Teamgroup T-Force Delta RGB 32GB 6400MHz (FF3D532G6400HC40BDC01)",
+            "Description": "DDR5 32 GB | 6400 MHz | RGB | PC51200 | 1.35 V",
+            "Price": "298  ",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/201706/5242/small_kingston_a400-3.webp",
+            "Title": "SSD Kingston A400 480GB (SA400S37/480G)",
+            "Description": "Bakıda ucuz qiymətə  tam orijinal  SSD Kingston A400 480 GB     modelini iComp.az saytından münasib qiymətə sifariş edə bilərsiniz.",
+            "Price": "89  ₼",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202112/9623/small_i9-12900k-1.webp",
+            "Title": "Intel® Core™ i9-12900K CPU",
+            "Description": "LGA1700 | DDR4-3200 | DDR5-4800 | Intel UHD 770 | 16 Cores",
+            "Price": "639  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202304/10709/small_ned407t019k9-1045g-1.webp",
+            "Title": "Palit GeForce RTX 4070 Ti GameRock 12GB 192bit (NED407T019K9-1045G)",
+            "Description": "GDDR6X 12GB | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "2 049",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202111/9511/small_bl2k16g32c16u4bl-1.webp",
+            "Title": "DDR4 Crucial Ballistix 16GB 3200 Mhz (BL2K8G32C16U4BL) Kit",
+            "Description": "DDR4 | 16GB | 3200 Mhz | PC25600 | RGB | 1.35 V",
+            "Price": "Təyin",
+            "Category": "RAM"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202003/7703/small_612snkndozl_sl1000_.webp",
+            "Title": "SSD Kingston A400 960 GB (SA400S37/960G)",
+            "Description": "Read 500MB/s | Write 450 MB/s | 960 GB | SATA III",
+            "Price": "145  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202301/10535/small_bez_nazvaniya_9.webp",
+            "Title": "Intel® Core™ i9-12900KF CPU",
+            "Description": "FCLGA1700 | 2.4-5.2 GHz | DDR4-3200 DDR5-4800 | 241 W",
+            "Price": "629  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202304/10708/small_ned407tu19k9-1045g-1.webp",
+            "Title": "Palit GeForce RTX 4070 Ti GameRock OC 12GB 192bit (NED407TU19K9-1045G)",
+            "Description": "GDDR6X 12GB | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "2 159",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202306/10858/small_kingston_data_center_dc450r_sedc450r3840.webp",
+            "Title": "SSD Kingston Data Center DC450R SEDC450R 3.84 TB",
+            "Description": "SATA | 560 Mbps | 2.5 Form Faktor",
+            "Price": "779  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202301/10536/small_bez_nazvaniya_10.webp",
+            "Title": "Intel® Core™ i9-13900K CPU",
+            "Description": "FCLGA1700 | 2.20-5.80 GHz | DDR4-3200 DDR5-5600 | 253 W",
+            "Price": "949  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202304/10707/small_ned407t019k9-1043a-1.webp",
+            "Title": "Palit GeForce RTX 4070 Ti GamingPro 12GB 192bit (NED407T019K9-1043A)",
+            "Description": "GDDR6X 12GB | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "1 959",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202408/11759/small_kingston_dc450r-1.webp",
+            "Title": "SSD Kingston DC450R 3.84 TB",
+            "Description": "SATA SSD | 3840 GB | NAND: 3D TLC | 525-560 Mbps",
+            "Price": "749  ",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202303/10623/small_i9-13900kf-1.webp",
+            "Title": "Intel® Core™ i9-13900KF CPU",
+            "Description": "LGA1700 | 5800 MHz | DDR5-5600 | 125 W",
+            "Price": "899  ",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202304/10704/small_ned407tt19k9-1043a-1.webp",
+            "Title": "Palit GeForce RTX 4070 Ti GamingPro OC 12GB 192bit (NED407TT19K9-1043A)",
+            "Description": "GDDR6X 12GB | 192-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "1 979",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202311/11101/small_kingston_sedc600m-1.webp",
+            "Title": "SSD Kingston DC600M 7680 GB (SEDC600M/7680G)",
+            "Description": "2.5 FF | SATA Rev. 3.0 | 3D TLC | 530-560 Mbps | 94000 IOPS",
+            "Price": "1 449",
+            "Category": "Storage"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202311/11108/small_intel_core_i9_14900k-1.webp",
+            "Title": "Intel® Core™ i9-14900K CPU",
+            "Description": "LGA1700 | 2.4-6.0 GHz | DDR5-5600 | DDR4-3200 | Intel® UHD 770",
+            "Price": "1 199",
+            "Category": "CPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202502/13055/small_palit_gamingpro_rtx_4070ti_super_16gb-1.webp",
+            "Title": "Palit GeForce RTX 4070 Ti SUPER GamingPro 16GB 256-bit (NED47TS019T2-1043A)",
+            "Description": "GDDR6X 16GB | 256-bit | 21 Gbps | HDMI | DisplayPort",
+            "Price": "1 999",
+            "Category": "GPU"
+        },
+        {
+            "Photo": "https://icomp.az/data/img/202105/8899/small_mz-77e500bw-1.webp",
+            "Title": "SSD Samsung 870 EVO 500 GB",
+            "Description": "500 GB | SATA 6GBps | 560 MBps | 88000 IOPS",
+            "Price": "139  ",
+            "Category": "Storage"
+        }
+    ]
+}
