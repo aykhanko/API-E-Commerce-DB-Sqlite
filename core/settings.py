@@ -168,6 +168,7 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     "https://api-e-commerce-db-sqlite.onrender.com",
-    "http://127.0.0.1:5500",  
+    "http://127.0.0.1:5500",
+    "https://e-commerce-front-ccl2.onrender.com",
 ]
 
