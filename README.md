@@ -1,4 +1,4 @@
-# 🛍️ Tech Marketplace Backend
+# 🛍️ Tech Market Backend
 
 This project is a **backend API** built using **Django & Django Rest Framework (DRF)** to enable users to buy and sell technology products securely. It provides authentication, permissions, and user management features.
 
